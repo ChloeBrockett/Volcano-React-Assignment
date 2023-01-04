@@ -1,0 +1,43 @@
+
+
+
+.countrySelect{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.formItem{
+    margin: 10px;
+}
+
+#dropdownMenu {
+    max-height: 300px;
+    overflow-y: scroll;
+}
+
+#toggleButton{
+    padding: 0px;
+}
+
+#select {
+    max-width: fit-content;
+}
+
+#volcanoGrid {
+    margin:auto;
+    width: 650px;
+}
+
+.mapHeader{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+#return{
+    margin-left: 30px;
+    size: "sm"
+}

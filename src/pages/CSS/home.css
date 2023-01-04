@@ -1,0 +1,25 @@
+.row.content.Hero {
+    min-height: 250px;
+    max-height: 30%;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+}
+  
+.Hero h1 {
+    color: rgb(236, 92, 70);
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 150px;
+}
+
+.Hero h2{
+    color: rgb(197, 62, 41);
+}
+
+.row.content.messages {
+    width:40%;
+    text-align: left;
+    margin:auto;
+    margin-top: 30px;
+    
+}

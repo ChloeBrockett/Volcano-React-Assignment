@@ -1,0 +1,19 @@
+.row.auth{
+    margin: auto;
+    margin-top: 90px;
+    width: 500px;
+}
+
+#row2{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+#regLabel{
+    margin: auto 0;
+}
+#setAuth{
+    width: 100px;
+}

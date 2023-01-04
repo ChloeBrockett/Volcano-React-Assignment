@@ -1,0 +1,31 @@
+.wrapper{
+
+    display: flex;
+    flex-flow: column;
+    flex: 1 1 auto;
+    margin:auto;
+    justify-content: center;
+}
+
+.row1{
+    margin-top:20px;
+    display: flex;
+    flex-flow: row;
+    flex: 1 1 auto;
+    justify-content: space-evenly;
+}
+
+.dataContainer {
+    display: flex;
+    flex-flow: column;
+    justify-content:center;
+}
+
+.row2{
+    display: flex;
+    flex-flow: column;
+    flex: 1 1 auto;
+    justify-content:center;
+    width: 50%;
+}
+
